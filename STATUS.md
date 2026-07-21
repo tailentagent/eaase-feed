@@ -1,7 +1,7 @@
 # eaase pipeline status
 
-Last run: 2026-07-21T03:05:45.628Z
+Last run: 2026-07-21T03:35:00.490Z
 
 ```
-extra batch: posted 1/1 — receipt: posted 2/2
+posted 3/3 â€” receipt: posted 2/2 | card: posted 2/2 | trade: posted 2/2
 ```
