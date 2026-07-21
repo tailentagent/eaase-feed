@@ -20,5 +20,28 @@
     "format": "trade",
     "outcome": "skipped_render",
     "detail": "render + receipt-template fallback both failed: Error: Error while downloading http://localhost:3000/public/music-generated/2026-07-21-trade.mp3: Error: Received a status code of 404 while downloading file http://localhost:3000/public/music-generat"
+  },
+  {
+    "date": "2026-07-21",
+    "format": "receipt",
+    "quote_id": "sheeran-veil",
+    "category": "opted_out",
+    "hook_text": "ed sheeran ditched his phone in 2015",
+    "caption": "one of the biggest artists alive said this. it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-19193293",
+    "outcome": "posted 2/2",
+    "extra": true
+  },
+  {
+    "date": "2026-07-21",
+    "format": "card",
+    "outcome": "skipped_render",
+    "detail": "render + receipt-template fallback both failed: Error: Error while downloading http://localhost:3000/public/music-generated/2026-07-21-card-b2.mp3: Error: Received a status code of 404 while downloading file http://localhost:3000/public/music-gener"
+  },
+  {
+    "date": "2026-07-21",
+    "format": "trade",
+    "outcome": "skipped_render",
+    "detail": "render + receipt-template fallback both failed: Error: Error while downloading http://localhost:3000/public/music-generated/2026-07-21-trade-b2.mp3: Error: Received a status code of 404 while downloading file http://localhost:3000/public/music-gene"
   }
 ]
