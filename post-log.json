@@ -71,5 +71,40 @@
     "background_id": "pexels-34566225",
     "outcome": "posted 2/2",
     "extra": true
+  },
+  {
+    "date": "2026-07-22",
+    "format": "receipt",
+    "quote_id": "jobs-limit",
+    "category": "kept_kids_off",
+    "hook_text": "steve jobs on his own kids and the ipad",
+    "caption": "the people at the top of the feed don't scroll it. eaase is in the bio 🌙",
+    "background_id": "pexels-32539931",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-22",
+    "format": "card",
+    "item_id": "d3505726-4e16-47f5-b45f-11ea2147699a",
+    "category": "quotes",
+    "hook_text": "the reframe that actually lands",
+    "caption": "harder than a hot take, more useful too. eaase is in the bio 🌙",
+    "background_id": "pexels-19193293",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-22",
+    "format": "trade",
+    "angle": "evening back",
+    "hook_text": "picture tonight going differently",
+    "lines": [
+      "Dinner dishes done, no agenda after.",
+      "A window open, something you actually wanted to watch.",
+      "Not a perfect night. Just yours.",
+      "The feed wasn't going to give you that."
+    ],
+    "caption": "your evening is still there waiting. eaase is in the bio 🌙",
+    "background_id": "pexels-35099181",
+    "outcome": "posted 2/2"
   }
 ]
