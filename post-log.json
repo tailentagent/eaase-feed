@@ -1,74 +1,24 @@
 [
   {
     "date": "2026-07-21",
-    "format": "card",
-    "item_id": "1c7f2ef8-6a1b-4126-afcb-47a9d519e3bf",
-    "category": "quotes",
-    "hook_text": "worth sitting with tonight",
-    "caption": "the dream comes first. eaase is in the bio 🌙",
-    "background_id": "pexels-19193293",
-    "outcome": "posted 2/2"
-  },
-  {
-    "date": "2026-07-21",
-    "format": "trade",
-    "angle": "time arithmetic",
-    "hook_text": "the math is kind of wild",
-    "lines": [
-      "An hour a night is seven hours a week.",
-      "That's a long weekend afternoon, every week.",
-      "It's not a willpower problem.",
-      "It's just a design you didn't agree to."
-    ],
-    "caption": "seven hours a week is a lot of life. eaase is in the bio 🌙",
-    "background_id": "pexels-35099181",
-    "outcome": "posted 2/2"
-  },
-  {
-    "date": "2026-07-21",
     "format": "receipt",
     "quote_id": "hastings-sleep",
     "category": "builders_said_it",
-    "hook_text": "netflix competing with sleep was the plan",
-    "caption": "not an accident. not your fault. eaase is in the bio 🌙",
+    "hook_text": "netflix competing with sleep, their words",
+    "caption": "not a glitch in the app. the whole point of it. eaase is in the bio 🌙",
     "background_id": "pexels-32539931",
     "outcome": "posted 2/2"
   },
   {
     "date": "2026-07-21",
-    "format": "receipt",
-    "quote_id": "sheeran-veil",
-    "category": "opted_out",
-    "hook_text": "ed sheeran's been phone-free since 2015",
-    "caption": "one less phone, one lifted veil. it's not a willpower problem. eaase is in the bio 🌙",
-    "background_id": "pexels-15283975",
-    "outcome": "posted 2/2",
-    "extra": true
-  },
-  {
-    "date": "2026-07-21",
     "format": "card",
-    "item_id": "fddf88a1-869e-40f1-a099-bd8404361fad",
-    "category": "did_you_know",
-    "hook_text": "a spa town you've probably never heard of",
-    "caption": "hot springs, rich history, zero algorithm required. eaase is in the bio 🌙",
-    "background_id": "pexels-35213341",
-    "outcome": "posted 2/2",
-    "extra": true
+    "outcome": "skipped_render",
+    "detail": "render + receipt-template fallback both failed: Error: Error while downloading http://localhost:3000/public/music-generated/2026-07-21-card.mp3: Error: Received a status code of 404 while downloading file http://localhost:3000/public/music-generate"
   },
   {
     "date": "2026-07-21",
     "format": "trade",
-    "angle": "quiet permission",
-    "hook_text": "you can just stop",
-    "lines": [
-      "The feed will still be there tomorrow.",
-      "It's very committed like that.",
-      "You don't have to be."
-    ],
-    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
-    "background_id": "pexels-34566225",
-    "outcome": "posted 2/2",
-    "extra": true
+    "outcome": "skipped_render",
+    "detail": "render + receipt-template fallback both failed: Error: Error while downloading http://localhost:3000/public/music-generated/2026-07-21-trade.mp3: Error: Received a status code of 404 while downloading file http://localhost:3000/public/music-generat"
   }
 ]
