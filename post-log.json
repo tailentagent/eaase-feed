@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "date": "2026-07-21",
+    "format": "receipt",
+    "outcome": "skipped_generation",
+    "detail": "quote_span is not a verbatim substring of the library quote"
+  }
+]
