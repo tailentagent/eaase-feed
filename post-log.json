@@ -2,6 +2,46 @@
   {
     "date": "2026-07-21",
     "format": "receipt",
+    "outcome": "skipped_generation",
+    "detail": "quote_span is not a verbatim substring of the library quote"
+  },
+  {
+    "date": "2026-07-21",
+    "format": "receipt",
+    "outcome": "skipped_render",
+    "detail": "Error: Error while downloading http://localhost:3000/music/acoustic-night-3.mp3: Error: Received a status code of 404 while downloading file http://localhost:3000/music/acoustic-night-3.mp3.\nThe response body was:\n---\n{\"statusCode\":404,\"message\":\"The requested path (C:\\\\Users\\\\admin\\\\AppData\\\\Local\\"
+  },
+  {
+    "date": "2026-07-21",
+    "format": "receipt",
+    "quote_id": "jobs-limit",
+    "category": "kept_kids_off",
+    "hook_text": "steve jobs on his own kids and the ipad",
+    "caption": "the man who made it didn't let it in his house. eaase is in the bio 🌙",
+    "outcome": "posted 0/2 (instagram: buffer api error: 200 [{\"message\":\"Cannot query field \\\"id\\\" on type \\\"PostActionPayload\\\".\",\"locations\":[{\"line\":1,\"column\":67}],\"extensions\":{\"code\":\"GRAPHQL_VALIDATION_FAILED\"}}]; tiktok: buffer api error: 200 [{\"message\":\"Cannot query field \\\"id\\\" on type \\\"PostActionPayload\\\".\",\"locations\":[{\"line\":1,\"column\":67}],\"extensions\":{\"code\":\"GRAPHQL_VALIDATION_FAILED\"}}])"
+  },
+  {
+    "date": "2026-07-21",
+    "format": "receipt",
+    "quote_id": "sheeran-veil",
+    "category": "opted_out",
+    "hook_text": "ed sheeran hasn't had a phone since 2015",
+    "caption": "one decision, one metaphor, no notes. eaase is in the bio 🌙",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-21",
+    "format": "receipt",
+    "quote_id": "courts-la-verdict",
+    "category": "courts",
+    "hook_text": "a jury just made it official",
+    "caption": "it's not a willpower problem. a jury agreed. eaase is in the bio 🌙",
+    "outcome": "posted 2/2",
+    "extra": true
+  },
+  {
+    "date": "2026-07-21",
+    "format": "receipt",
     "quote_id": "hastings-sleep",
     "category": "builders_said_it",
     "hook_text": "netflix said the quiet part out loud",
