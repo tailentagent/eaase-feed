@@ -19,5 +19,14 @@
     "hook_text": "steve jobs on his own kids and the ipad",
     "caption": "the man who made it didn't let it in his house. eaase is in the bio 🌙",
     "outcome": "posted 0/2 (instagram: buffer api error: 200 [{\"message\":\"Cannot query field \\\"id\\\" on type \\\"PostActionPayload\\\".\",\"locations\":[{\"line\":1,\"column\":67}],\"extensions\":{\"code\":\"GRAPHQL_VALIDATION_FAILED\"}}]; tiktok: buffer api error: 200 [{\"message\":\"Cannot query field \\\"id\\\" on type \\\"PostActionPayload\\\".\",\"locations\":[{\"line\":1,\"column\":67}],\"extensions\":{\"code\":\"GRAPHQL_VALIDATION_FAILED\"}}])"
+  },
+  {
+    "date": "2026-07-21",
+    "format": "receipt",
+    "quote_id": "sheeran-veil",
+    "category": "opted_out",
+    "hook_text": "ed sheeran hasn't had a phone since 2015",
+    "caption": "one decision, one metaphor, no notes. eaase is in the bio 🌙",
+    "outcome": "posted 2/2"
   }
 ]
