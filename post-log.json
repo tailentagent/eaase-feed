@@ -28,5 +28,15 @@
     "hook_text": "ed sheeran hasn't had a phone since 2015",
     "caption": "one decision, one metaphor, no notes. eaase is in the bio 🌙",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-21",
+    "format": "receipt",
+    "quote_id": "courts-la-verdict",
+    "category": "courts",
+    "hook_text": "a jury just made it official",
+    "caption": "it's not a willpower problem. a jury agreed. eaase is in the bio 🌙",
+    "outcome": "posted 2/2",
+    "extra": true
   }
 ]
