@@ -106,5 +106,40 @@
     "caption": "your evening is still there waiting. eaase is in the bio 🌙",
     "background_id": "pexels-35099181",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-23",
+    "format": "receipt",
+    "quote_id": "sheeran-moments",
+    "category": "opted_out",
+    "hook_text": "he's been phoneless since 2015",
+    "caption": "uninterrupted. imagine that. eaase is in the bio 🌙",
+    "background_id": "pexels-15283975",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-23",
+    "format": "card",
+    "item_id": "71a708d3-672c-4c4a-9852-be4eddf128ca",
+    "category": "space_nature",
+    "hook_text": "light that rewrites what you see",
+    "caption": "physics doing things that sound made up. eaase is in the bio 🌙",
+    "background_id": "pexels-35213341",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-23",
+    "format": "trade",
+    "angle": "sleep",
+    "hook_text": "the other side of a full night's sleep",
+    "lines": [
+      "You wake up before the alarm.",
+      "Not groggy. Just, quietly, awake.",
+      "The feed kept you up to show you more of the same.",
+      "The sleep was always the better offer."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-34566225",
+    "outcome": "posted 2/2"
   }
 ]
