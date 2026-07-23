@@ -141,5 +141,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-34566225",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-24",
+    "format": "receipt",
+    "quote_id": "courts-la-verdict",
+    "category": "courts",
+    "hook_text": "a jury made it legally official in 2026",
+    "caption": "the executives said it in 2017. a jury confirmed it in 2026. eaase is in the bio 🌙",
+    "background_id": "pexels-7144284",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-24",
+    "format": "card",
+    "item_id": "98603a47-f7ca-4644-b9c5-1908a16e00c1",
+    "category": "quotes",
+    "hook_text": "the door you didn't know you closed",
+    "caption": "worth sitting with tonight instead of the feed. eaase is in the bio 🌙",
+    "background_id": "pexels-37522005",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-24",
+    "format": "trade",
+    "angle": "money",
+    "hook_text": "the feed has something to sell you",
+    "lines": [
+      "Every third post is quietly a shop.",
+      "The feed isn't free. It trades on your attention",
+      "and points it straight at a checkout.",
+      "You were never just browsing."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-35099181",
+    "outcome": "posted 2/2"
   }
 ]
