@@ -176,5 +176,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-35099181",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-25",
+    "format": "receipt",
+    "quote_id": "parker-time-attention",
+    "category": "builders_said_it",
+    "hook_text": "facebook's founder said this in 2017",
+    "caption": "the goal, in their own words. eaase is in the bio 🌙",
+    "background_id": "pexels-15283975",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-25",
+    "format": "card",
+    "item_id": "9446cf13-3bc8-46b6-a4dc-b69b2264f099",
+    "category": "did_you_know",
+    "hook_text": "four muscles you've never heard of",
+    "caption": "your skull has a whole crew back there. eaase is in the bio 🌙",
+    "background_id": "pexels-35213341",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-25",
+    "format": "trade",
+    "angle": "movement or learning",
+    "hook_text": "a small start is still a start",
+    "lines": [
+      "You don't need a block of time or a plan.",
+      "A walk. A chapter. One new thing tried.",
+      "The feed fills the same gap and leaves it emptier.",
+      "Small and real beats endless and nothing."
+    ],
+    "caption": "less scrolling, more living. eaase is in the bio 🌙",
+    "background_id": "pexels-34566225",
+    "outcome": "posted 2/2"
   }
 ]
