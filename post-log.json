@@ -211,5 +211,50 @@
     "caption": "less scrolling, more living. eaase is in the bio 🌙",
     "background_id": "pexels-34566225",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-26",
+    "format": "receipt",
+    "quote_id": "gomez-happier",
+    "category": "opted_out",
+    "hook_text": "she had the biggest account on it",
+    "caption": "the most followed person on it walked away. you're not the weird one for wanting out. eaase is in the bio 🌙",
+    "background_id": "pexels-7144284",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-26",
+    "format": "card",
+    "item_id": "0477cbd0-d1a9-4cfa-8c79-fd76105b2244",
+    "category": "space_nature",
+    "hook_text": "before nasa, there was this",
+    "caption": "76 years ago today, something left the ground and didn't stop. eaase is in the bio 🌙",
+    "background_id": "pexels-37522005",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-26",
+    "format": "trade",
+    "angle": "time arithmetic",
+    "hook_text": "two hours a night is a lot of nights",
+    "lines": [
+      "Two hours a night is 14 hours a week.",
+      "That's a short course, a road trip, a finished project.",
+      "The feed didn't steal it.",
+      "It just made the time hard to see."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-35170762",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-26",
+    "format": "mirror",
+    "variant": "stat",
+    "entry_id": "genz-days-per-year",
+    "hook_text": "what else could that time hold?",
+    "caption": "the numbers are public. eaase is in the bio 🌙",
+    "background_id": "pexels-6664273",
+    "outcome": "posted 2/2"
   }
 ]
