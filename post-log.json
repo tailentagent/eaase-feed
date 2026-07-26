@@ -256,5 +256,39 @@
     "caption": "the numbers are public. eaase is in the bio 🌙",
     "background_id": "pexels-6664273",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-27",
+    "format": "receipt",
+    "quote_id": "gates-fourteen",
+    "category": "kept_kids_off",
+    "hook_text": "bill gates waited until they were 14",
+    "caption": "he helped build the connected world. then held the door closed a little longer. eaase is in the bio 🌙",
+    "background_id": "pexels-6219600",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-27",
+    "format": "card",
+    "item_id": "b0b234ba-3ee5-4531-bbec-dfc2908a665b",
+    "category": "quotes",
+    "hook_text": "swift said something worth stealing",
+    "caption": "older than the internet, sharper than a hot take. eaase is in the bio 🌙",
+    "background_id": "pexels-34566225",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-27",
+    "format": "trade",
+    "angle": "quiet permission",
+    "hook_text": "no reason needed to put it down",
+    "lines": [
+      "You don't owe the feed a finished scroll.",
+      "It's designed to feel unfinished. That's the whole idea.",
+      "Closing it mid-reel is a complete sentence."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-7144284",
+    "outcome": "posted 2/2"
   }
 ]
