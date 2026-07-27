@@ -290,5 +290,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-7144284",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-28",
+    "format": "receipt",
+    "quote_id": "gomez-relationship",
+    "category": "opted_out",
+    "hook_text": "selena gomez on four years offline",
+    "caption": "a relationship with yourself. turns out the feed was in the way. eaase is in the bio 🌙",
+    "background_id": "pexels-37522005",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-28",
+    "format": "card",
+    "item_id": "d451ba2c-9e09-407e-8b1e-ab4bc1a3d5a3",
+    "category": "did_you_know",
+    "hook_text": "one career, two countries, one horn",
+    "caption": "hertfordshire to rural italy via some of europe's finest stages. eaase is in the bio 🌙",
+    "background_id": "pexels-35170762",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-28",
+    "format": "trade",
+    "angle": "evening back",
+    "hook_text": "a quieter night is closer than it feels",
+    "lines": [
+      "The laundry folded. A book opened, then actually read.",
+      "Not a big night. Just an uninterrupted one.",
+      "The feed was always going to need five more minutes.",
+      "Tonight, that time stayed yours."
+    ],
+    "caption": "your evening, uninterrupted. eaase is in the bio 🌙",
+    "background_id": "pexels-7330179",
+    "outcome": "posted 2/2"
   }
 ]
