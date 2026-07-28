@@ -325,5 +325,40 @@
     "caption": "your evening, uninterrupted. eaase is in the bio 🌙",
     "background_id": "pexels-7330179",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-29",
+    "format": "receipt",
+    "quote_id": "courts-defenses-fail",
+    "category": "courts",
+    "hook_text": "meta's legal shields just failed in court",
+    "caption": "two decades of legal cover, gone. trial starts august 18. eaase is in the bio 🌙",
+    "background_id": "pexels-6219600",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-29",
+    "format": "card",
+    "item_id": "aa24602d-781f-4511-b2f8-1a5d4094492f",
+    "category": "psychology",
+    "hook_text": "what if fear's been lying to you",
+    "caption": "risk as a friend, not a warning sign. eaase is in the bio 🌙",
+    "background_id": "pexels-4769626",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-29",
+    "format": "trade",
+    "angle": "sleep",
+    "hook_text": "what a real night's sleep feels like",
+    "lines": [
+      "The feed is most compelling at midnight.",
+      "That's not a coincidence. That's the design.",
+      "Morning feels different when you didn't stay.",
+      "Turns out rest was always on the table."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-30054113",
+    "outcome": "posted 2/2"
   }
 ]
