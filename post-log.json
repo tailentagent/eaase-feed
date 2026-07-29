@@ -360,5 +360,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-30054113",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-30",
+    "format": "receipt",
+    "quote_id": "parker-vulnerability",
+    "category": "builders_said_it",
+    "hook_text": "facebook's founding president, his words",
+    "caption": "he built it. he named exactly what it does. eaase is in the bio 🌙",
+    "background_id": "pexels-32349013",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-30",
+    "format": "card",
+    "item_id": "4c436da0-8f41-404e-a50a-03a730880077",
+    "category": "quotes",
+    "hook_text": "wooden on what actually holds us back",
+    "caption": "stagnation, not stumbling. john wooden had a point. eaase is in the bio 🌙",
+    "background_id": "pexels-35170762",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-30",
+    "format": "trade",
+    "angle": "money",
+    "hook_text": "the feed knows what you're about to buy",
+    "lines": [
+      "The scroll is free. The targeting isn't.",
+      "Every pause you make is a data point.",
+      "The apps know your soft spots before you do.",
+      "You were always the product, not the customer."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-7330179",
+    "outcome": "posted 2/2"
   }
 ]
