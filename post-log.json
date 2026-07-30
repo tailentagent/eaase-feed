@@ -395,5 +395,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-7330179",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-31",
+    "format": "receipt",
+    "quote_id": "holland-spiral",
+    "category": "opted_out",
+    "hook_text": "tom holland deleted it. here's why.",
+    "caption": "68 million followers. still not worth it. eaase is in the bio 🌙",
+    "background_id": "pexels-6219600",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-31",
+    "format": "card",
+    "item_id": "4c6db905-9327-4b12-99b2-7598ecfb2ce1",
+    "category": "did_you_know",
+    "hook_text": "three temples, one story",
+    "caption": "vrindavan, barsana, mangarh. places worth knowing. eaase is in the bio 🌙",
+    "background_id": "pexels-4769626",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-07-31",
+    "format": "trade",
+    "angle": "movement or learning",
+    "hook_text": "the gap is smaller than the feed says",
+    "lines": [
+      "Learning a thing takes less time than the feed implies.",
+      "A chapter a night is a book a month.",
+      "The scroll fills the same slot and leaves less in it.",
+      "Smaller than you thought, and already enough."
+    ],
+    "caption": "less scrolling, more living. eaase is in the bio 🌙",
+    "background_id": "pexels-30054113",
+    "outcome": "posted 2/2"
   }
 ]
