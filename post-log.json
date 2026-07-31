@@ -430,5 +430,40 @@
     "caption": "less scrolling, more living. eaase is in the bio 🌙",
     "background_id": "pexels-30054113",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-01",
+    "format": "receipt",
+    "quote_id": "cook-nephew",
+    "category": "kept_kids_off",
+    "hook_text": "the apple ceo sets his own rules at home",
+    "caption": "the man who sells the phone draws the line at the feed. eaase is in the bio 🌙",
+    "background_id": "pexels-32349013",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-01",
+    "format": "card",
+    "item_id": "23e0215a-94cf-4f73-bd24-fa126a103764",
+    "category": "quotes",
+    "hook_text": "not a detour. look closer.",
+    "caption": "holiday's been sitting with this one for years. worth 30 seconds of yours. eaase is in the bio 🌙",
+    "background_id": "pexels-27741118",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-01",
+    "format": "trade",
+    "angle": "time arithmetic",
+    "hook_text": "45 minutes a night is no small thing",
+    "lines": [
+      "45 minutes a night is five hours a week.",
+      "That's a language lesson, a long bath, a started thing.",
+      "The feed made it feel like nothing.",
+      "It wasn't nothing."
+    ],
+    "caption": "it adds up quietly. eaase is in the bio 🌙",
+    "background_id": "pexels-7330179",
+    "outcome": "posted 2/2"
   }
 ]
