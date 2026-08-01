@@ -465,5 +465,50 @@
     "caption": "it adds up quietly. eaase is in the bio 🌙",
     "background_id": "pexels-7330179",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-02",
+    "format": "receipt",
+    "quote_id": "bieber-boundaries",
+    "category": "opted_out",
+    "hook_text": "justin bieber only uses an ipad now",
+    "caption": "you don't owe the feed your evening. eaase is in the bio 🌙",
+    "background_id": "pexels-35822284",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-02",
+    "format": "card",
+    "item_id": "719b9125-7547-4587-b23f-47f371ff6079",
+    "category": "did_you_know",
+    "hook_text": "the man who painted with a camera",
+    "caption": "seven decades, one lens, a completely different way of seeing film. eaase is in the bio 🌙",
+    "background_id": "pexels-4769626",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-02",
+    "format": "trade",
+    "angle": "quiet permission",
+    "hook_text": "the scroll can wait. genuinely.",
+    "lines": [
+      "There's no cliffhanger at the end of the feed.",
+      "It just becomes more feed.",
+      "You're not missing the good part.",
+      "This is your permission to find out."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-30054113",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-02",
+    "format": "mirror",
+    "variant": "question",
+    "entry_id": "mirror-book",
+    "hook_text": "a novel's worth of evening",
+    "caption": "it's not a willpower problem. it's just math. eaase is in the bio 🌙",
+    "background_id": "pexels-35174756",
+    "outcome": "posted 2/2"
   }
 ]
