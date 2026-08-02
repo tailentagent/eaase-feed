@@ -510,5 +510,40 @@
     "caption": "it's not a willpower problem. it's just math. eaase is in the bio 🌙",
     "background_id": "pexels-35174756",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-03",
+    "format": "receipt",
+    "quote_id": "courts-mass-sjc",
+    "category": "courts",
+    "hook_text": "massachusetts just ruled in april 2026",
+    "caption": "the courts caught up with what the executives admitted in 2017. eaase is in the bio 🌙",
+    "background_id": "pexels-32349013",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-03",
+    "format": "card",
+    "item_id": "07665b09-874b-4c24-8697-042e916dbcf4",
+    "category": "quotes",
+    "hook_text": "30 seconds of something quieter",
+    "caption": "not perfection. just showing up for each part of the day. eaase is in the bio 🌙",
+    "background_id": "pexels-27741118",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-03",
+    "format": "trade",
+    "angle": "evening back",
+    "hook_text": "tonight has more in it than this",
+    "lines": [
+      "An evening without a plan isn't empty.",
+      "It's just open, which is different.",
+      "The feed fills that space before you notice it's gone.",
+      "It was always yours to keep."
+    ],
+    "caption": "less scrolling, more living. eaase is in the bio 🌙",
+    "background_id": "pexels-35822284",
+    "outcome": "posted 2/2"
   }
 ]
