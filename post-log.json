@@ -545,5 +545,40 @@
     "caption": "less scrolling, more living. eaase is in the bio 🌙",
     "background_id": "pexels-35822284",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-04",
+    "format": "receipt",
+    "quote_id": "parker-did-it-anyway",
+    "category": "builders_said_it",
+    "hook_text": "facebook's president admitted this in 2017",
+    "caption": "not an accident. a choice. eaase is in the bio 🌙",
+    "background_id": "pexels-27375628",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-04",
+    "format": "card",
+    "item_id": "2dd95ded-0c8d-48ee-8b32-c0d2e1375fc8",
+    "category": "psychology",
+    "hook_text": "a 'no' you might read differently",
+    "caption": "rejection has better data than the feed does. eaase is in the bio 🌙",
+    "background_id": "pexels-32539931",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-04",
+    "format": "trade",
+    "angle": "sleep",
+    "hook_text": "sleep is doing more than you think",
+    "lines": [
+      "The feed is loudest when you're tired.",
+      "Tired is also when it's easiest to stay.",
+      "That's not a flaw in you. That's the design.",
+      "The night that ends early is a gift to tomorrow you."
+    ],
+    "caption": "the feed planned your bedtime. you don't have to let it. eaase is in the bio 🌙",
+    "background_id": "pexels-19193293",
+    "outcome": "posted 2/2"
   }
 ]
