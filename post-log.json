@@ -580,5 +580,40 @@
     "caption": "the feed planned your bedtime. you don't have to let it. eaase is in the bio 🌙",
     "background_id": "pexels-19193293",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-05",
+    "format": "receipt",
+    "quote_id": "nolan-nophone",
+    "category": "opted_out",
+    "hook_text": "christopher nolan directs without one",
+    "caption": "one of the most focused minds working today never had the app. eaase is in the bio 🌙",
+    "background_id": "pexels-35099181",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-05",
+    "format": "card",
+    "item_id": "2f47bbe2-f83e-4be6-b664-b8205b6fcfb5",
+    "category": "quotes",
+    "hook_text": "judy garland on what fills a heart",
+    "caption": "the receiving end of love. garland got there first. eaase is in the bio 🌙",
+    "background_id": "pexels-27741118",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-05",
+    "format": "trade",
+    "angle": "money",
+    "hook_text": "the feed isn't window shopping",
+    "lines": [
+      "The feed is free to open.",
+      "It isn't free to use. It charges in attention,",
+      "and attention, pointed long enough, becomes a cart.",
+      "Browsing was never really on the menu."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-35822284",
+    "outcome": "posted 2/2"
   }
 ]
