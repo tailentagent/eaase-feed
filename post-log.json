@@ -615,5 +615,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-35822284",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-06",
+    "format": "receipt",
+    "quote_id": "thiel-gasp",
+    "category": "kept_kids_off",
+    "hook_text": "the early facebook investor's own kids",
+    "caption": "they built it. they drew the line at home. eaase is in the bio 🌙",
+    "background_id": "pexels-27375628",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-06",
+    "format": "card",
+    "item_id": "0b7cd6c3-2c5a-4cb6-83fa-db205de17158",
+    "category": "did_you_know",
+    "hook_text": "a place where two rivers meet",
+    "caption": "bc has whole corners the feed never finds. eaase is in the bio 🌙",
+    "background_id": "pexels-32539931",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-06",
+    "format": "trade",
+    "angle": "movement or learning",
+    "hook_text": "you already have the time",
+    "lines": [
+      "Three songs is fifteen minutes.",
+      "Fifteen minutes outside is not nothing.",
+      "The feed was sitting in that exact slot.",
+      "It was always yours to take back."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-19193293",
+    "outcome": "posted 2/2"
   }
 ]
