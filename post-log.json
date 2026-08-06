@@ -650,5 +650,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-19193293",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-07",
+    "format": "receipt",
+    "quote_id": "walken-watch",
+    "category": "opted_out",
+    "hook_text": "christopher walken never owned a phone",
+    "caption": "turns out someone else always has the time. eaase is in the bio 🌙",
+    "background_id": "pexels-35099181",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-07",
+    "format": "card",
+    "item_id": "42950eaa-92a3-4145-b478-862fd4dc80ce",
+    "category": "quotes",
+    "hook_text": "what outlasts everything you build",
+    "caption": "spurgeon on the only kind of legacy that actually sticks around. eaase is in the bio 🌙",
+    "background_id": "pexels-15283975",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-07",
+    "format": "trade",
+    "angle": "time arithmetic",
+    "hook_text": "30 minutes a night is more than it sounds",
+    "lines": [
+      "30 minutes a night is three and a half hours a week.",
+      "That's a film, a long run, a thing you keep meaning to start.",
+      "The feed never looked like three hours.",
+      "It just felt like a quick check."
+    ],
+    "caption": "the math is always quieter than the scroll. eaase is in the bio 🌙",
+    "background_id": "pexels-35213341",
+    "outcome": "posted 2/2"
   }
 ]
