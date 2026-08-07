@@ -685,5 +685,40 @@
     "caption": "the math is always quieter than the scroll. eaase is in the bio 🌙",
     "background_id": "pexels-35213341",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-08",
+    "format": "receipt",
+    "quote_id": "parker-brains",
+    "category": "builders_said_it",
+    "hook_text": "the man who built it had one question",
+    "caption": "he asked the question out loud. at an event. on the record. eaase is in the bio 🌙",
+    "background_id": "pexels-34566225",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-08",
+    "format": "card",
+    "item_id": "64a4d26a-93a0-4fae-ba53-e13ec57e4b27",
+    "category": "did_you_know",
+    "hook_text": "a sea snail worth knowing by name",
+    "caption": "centuries of collectors couldn't leave this one alone. can't blame them. eaase is in the bio 🌙",
+    "background_id": "pexels-32539931",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-08",
+    "format": "trade",
+    "angle": "quiet permission",
+    "hook_text": "it's okay to leave mid-feed",
+    "lines": [
+      "The feed isn't a story with an ending.",
+      "There's no resolution coming, no final post.",
+      "Putting it down now isn't giving up.",
+      "It's just choosing what comes next."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-19193293",
+    "outcome": "posted 2/2"
   }
 ]
