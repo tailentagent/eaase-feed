@@ -720,5 +720,50 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-19193293",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-09",
+    "format": "receipt",
+    "quote_id": "palihapitiya-guilt",
+    "category": "builders_said_it",
+    "hook_text": "a facebook exec said this on the record",
+    "caption": "his words, not ours. on record since 2017. eaase is in the bio 🌙",
+    "background_id": "pexels-35099181",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-09",
+    "format": "card",
+    "item_id": "54946798-3602-4544-8fab-dd41be00e87d",
+    "category": "quotes",
+    "hook_text": "this one stops you mid-scroll",
+    "caption": "an old proverb that earns its place in your evening. eaase is in the bio 🌙",
+    "background_id": "pexels-15283975",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-09",
+    "format": "trade",
+    "angle": "evening back",
+    "hook_text": "the night isn't over yet",
+    "lines": [
+      "There's still an hour left in today.",
+      "Not scheduled. Not owed to anyone.",
+      "The feed will fill it if you let it.",
+      "It doesn't have to be the feed."
+    ],
+    "caption": "one unclaimed hour is enough. eaase is in the bio 🌙",
+    "background_id": "pexels-35213341",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-09",
+    "format": "mirror",
+    "variant": "stat",
+    "entry_id": "pickups-per-day",
+    "hook_text": "that's a lot of glances",
+    "caption": "186 times. the apps are very good at their job. it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-37917592",
+    "outcome": "posted 2/2"
   }
 ]
