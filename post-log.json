@@ -765,5 +765,40 @@
     "caption": "186 times. the apps are very good at their job. it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-37917592",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-10",
+    "format": "receipt",
+    "quote_id": "pine-reminder",
+    "category": "opted_out",
+    "hook_text": "chris pine swapped to a flip phone",
+    "caption": "a flip phone as permission. you don't need a better feed. you need your evening back. eaase is in the bio 🌙",
+    "background_id": "pexels-34566225",
+    "outcome": "posted 1/2 (tiktok: buffer InvalidInputError: Invalid post: Video could not be read from its URL.)"
+  },
+  {
+    "date": "2026-08-10",
+    "format": "card",
+    "item_id": "b9aaa3dd-2423-4d61-bbc2-3dd7fcc6f478",
+    "category": "did_you_know",
+    "hook_text": "bugs bunny's curtain call",
+    "caption": "1964, and a golden age quietly closed the door. eaase is in the bio 🌙",
+    "background_id": "pexels-7144284",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-10",
+    "format": "trade",
+    "angle": "sleep",
+    "hook_text": "the feed peaks right when you're tired",
+    "lines": [
+      "An hour before bed, the feed gets good.",
+      "That's not luck. That's the product working.",
+      "The screen dims everything else, including sleep.",
+      "The off switch was always the better algorithm."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-35099181",
+    "outcome": "posted 1/2 (tiktok: buffer InvalidInputError: Invalid post: Video could not be read from its URL.)"
   }
 ]
