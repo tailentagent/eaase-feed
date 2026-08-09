@@ -1,7 +1,7 @@
 # eaase pipeline status
 
-Last run: 2026-08-08T21:03:19.284Z
+Last run: 2026-08-09T21:02:46.729Z
 
 ```
-posted 4/4 â€” receipt: posted 2/2 | card: posted 2/2 | trade: posted 2/2 | mirror: posted 2/2
+posted 3/3 â€” receipt: posted 1/2 (tiktok: buffer InvalidInputError: Invalid post: Video could not be read from its URL.) | card: posted 2/2 | trade: posted 1/2 (tiktok: buffer InvalidInputError: Invalid post: Video could not be read from its URL.)
 ```
