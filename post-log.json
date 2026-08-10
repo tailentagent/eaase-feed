@@ -800,5 +800,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-35099181",
     "outcome": "posted 1/2 (tiktok: buffer InvalidInputError: Invalid post: Video could not be read from its URL.)"
+  },
+  {
+    "date": "2026-08-11",
+    "format": "receipt",
+    "quote_id": "palihapitiya-kids",
+    "category": "kept_kids_off",
+    "hook_text": "the facebook vp banned it at home",
+    "caption": "he grew the platform for millions. kept it away from his own house. eaase is in the bio 🌙",
+    "background_id": "pexels-15283975",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-11",
+    "format": "card",
+    "item_id": "66e11ca2-fc6d-4877-a6e8-698e5f910911",
+    "category": "quotes",
+    "hook_text": "gretzky said it first",
+    "caption": "older than the highlight reel, still sharper than anything in the feed. eaase is in the bio 🌙",
+    "background_id": "pexels-35213341",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-11",
+    "format": "trade",
+    "angle": "money",
+    "hook_text": "the feed is running a tab for you",
+    "lines": [
+      "The scroll is free. The things it surfaces aren't.",
+      "Every soft pause is a signal sent back.",
+      "The feed learned your wants before you named them.",
+      "That's not shopping. That's something else entirely."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-37522005",
+    "outcome": "posted 2/2"
   }
 ]
