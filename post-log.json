@@ -835,5 +835,39 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-37522005",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-12",
+    "format": "receipt",
+    "quote_id": "woodley-freedom",
+    "category": "opted_out",
+    "hook_text": "shailene woodley, phoneless since 2014",
+    "caption": "she didn't lose the connection. she found it. eaase is in the bio 🌙",
+    "background_id": "pexels-34566225",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-12",
+    "format": "card",
+    "item_id": "20b0e67f-0f17-4cbc-9bc6-c81aed40a456",
+    "category": "did_you_know",
+    "hook_text": "skulls, flowers, and a manga title",
+    "caption": "renaissance painters and modern manga, same conversation. eaase is in the bio 🌙",
+    "background_id": "pexels-7144284",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-12",
+    "format": "trade",
+    "angle": "movement or learning",
+    "hook_text": "consistency is quieter than the feed suggests",
+    "lines": [
+      "Twice a week is 104 times a year.",
+      "That's not a streak. That's a habit.",
+      "The feed made starting look bigger than it is."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-35170762",
+    "outcome": "posted 2/2"
   }
 ]
