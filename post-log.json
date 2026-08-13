@@ -869,5 +869,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-35170762",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-14",
+    "format": "receipt",
+    "quote_id": "palihapitiya-dopamine",
+    "category": "builders_said_it",
+    "hook_text": "a facebook vp called it destroying society",
+    "caption": "said out loud, on stage, nine years ago. it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-6219600",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-14",
+    "format": "card",
+    "item_id": "9ebd2e28-5b9b-48cc-a714-c262b3331b75",
+    "category": "quotes",
+    "hook_text": "clarity without the judgment",
+    "caption": "one small insight beats an hour of scrolling. eaase is in the bio 🌙",
+    "background_id": "pexels-7330179",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-14",
+    "format": "trade",
+    "angle": "time arithmetic",
+    "hook_text": "a long weekend, every single week",
+    "lines": [
+      "Three hours a night is 21 hours a week.",
+      "That's a weekend, fully intact, appearing from nowhere.",
+      "The feed never looked like a weekend.",
+      "It just looked like one more scroll."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-37522005",
+    "outcome": "posted 2/2"
   }
 ]
