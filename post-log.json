@@ -904,5 +904,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-37522005",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-15",
+    "format": "receipt",
+    "quote_id": "chen-attention",
+    "category": "builders_said_it",
+    "hook_text": "youtube's co-founder on short-form video",
+    "caption": "the person who built the short-form machine said it plainly. eaase is in the bio 🌙",
+    "background_id": "pexels-4769626",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-15",
+    "format": "card",
+    "item_id": "9effbd15-d2e8-456a-ae49-2e70069cdc70",
+    "category": "did_you_know",
+    "hook_text": "before the legend, there was 1936",
+    "caption": "early hollywood doing its thing. eaase is in the bio 🌙",
+    "background_id": "pexels-30054113",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-15",
+    "format": "trade",
+    "angle": "quiet permission",
+    "hook_text": "you don't have to see it through",
+    "lines": [
+      "The feed has no ending planned for you.",
+      "It was built to feel like there's always one more.",
+      "There isn't. You can just go.",
+      "That's not quitting. That's actually the move."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-35170762",
+    "outcome": "posted 2/2"
   }
 ]
