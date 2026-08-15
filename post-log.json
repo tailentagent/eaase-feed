@@ -939,5 +939,50 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-35170762",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-16",
+    "format": "receipt",
+    "quote_id": "ortega-grain-of-salt",
+    "category": "opted_out",
+    "hook_text": "jenna ortega said it simply",
+    "caption": "one sentence. worth saving. eaase is in the bio 🌙",
+    "background_id": "pexels-6219600",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-16",
+    "format": "card",
+    "item_id": "3b9799a9-9367-492e-b6ac-f853cd0dd358",
+    "category": "space_nature",
+    "hook_text": "the moon doing something unusual",
+    "caption": "a mirage above the moon. the atmosphere out here. eaase is in the bio 🌙",
+    "background_id": "pexels-7330179",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-16",
+    "format": "trade",
+    "angle": "evening back",
+    "hook_text": "the evening has better plans than this",
+    "lines": [
+      "Shoes off. Something warm to drink.",
+      "The kind of quiet that doesn't need filling.",
+      "The feed was never going to offer that.",
+      "It was always here waiting instead."
+    ],
+    "caption": "some nights just want to be left alone. eaase is in the bio 🌙",
+    "background_id": "pexels-32349013",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-16",
+    "format": "mirror",
+    "variant": "question",
+    "entry_id": "mirror-roadtrip",
+    "hook_text": "4 hours is a long drive",
+    "caption": "you don't need a better feed. you need somewhere to point the car. eaase is in the bio 🌙",
+    "background_id": "pexels-6664273",
+    "outcome": "posted 2/2"
   }
 ]
