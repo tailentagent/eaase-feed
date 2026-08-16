@@ -984,5 +984,40 @@
     "caption": "you don't need a better feed. you need somewhere to point the car. eaase is in the bio 🌙",
     "background_id": "pexels-6664273",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-17",
+    "format": "receipt",
+    "quote_id": "chavarria-devil",
+    "category": "kept_kids_off",
+    "hook_text": "a facebook staffer kept it simple",
+    "caption": "she worked there. she kept her kids phone-free until high school. eaase is in the bio 🌙",
+    "background_id": "pexels-4769626",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-17",
+    "format": "card",
+    "item_id": "2c37cd30-fda3-4d1a-93d4-18983f6e84c3",
+    "category": "quotes",
+    "hook_text": "hepburn kept this one simple",
+    "caption": "permission granted, no occasion required. eaase is in the bio 🌙",
+    "background_id": "pexels-30054113",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-17",
+    "format": "trade",
+    "angle": "sleep",
+    "hook_text": "sleep has been waiting all day",
+    "lines": [
+      "The feed saves its best stuff for late.",
+      "Not because you need it. Because you're tired.",
+      "Tired is when the scroll wins and the night loses.",
+      "The pillow was always the smarter recommendation."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-6219600",
+    "outcome": "posted 2/2"
   }
 ]
