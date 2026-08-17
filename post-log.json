@@ -1019,5 +1019,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-6219600",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-18",
+    "format": "receipt",
+    "quote_id": "sheeran-swift-email",
+    "category": "opted_out",
+    "hook_text": "taylor swift had to find him an ipad",
+    "caption": "affectionate. also, kind of goals. eaase is in the bio 🌙",
+    "background_id": "pexels-7330179",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-18",
+    "format": "card",
+    "item_id": "e3ac1654-6f06-4307-add6-94e09d5e82e9",
+    "category": "history",
+    "hook_text": "a team that lasted one summer",
+    "caption": "last place, one season, still worth remembering. eaase is in the bio 🌙",
+    "background_id": "pexels-32349013",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-18",
+    "format": "trade",
+    "angle": "money",
+    "hook_text": "the feed has strong opinions on your wallet",
+    "lines": [
+      "The feed doesn't sell you things directly.",
+      "It just keeps you warm until you're ready to buy.",
+      "By then it looks like your own idea.",
+      "That's the whole design, and it's very good at it."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-27741118",
+    "outcome": "posted 2/2"
   }
 ]
