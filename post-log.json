@@ -1089,5 +1089,36 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-35822284",
     "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-20",
+    "format": "receipt",
+    "outcome": "skipped_generation",
+    "detail": "hook_text 47 chars (max 45); quote_span is not a verbatim substring of the library quote"
+  },
+  {
+    "date": "2026-08-20",
+    "format": "card",
+    "item_id": "a9abcbff-6a5c-4990-a54e-f5b51edff73a",
+    "category": "did_you_know",
+    "hook_text": "newark's been hiding something",
+    "caption": "o'keeffe, hopper, stella, all in new jersey. the feed never told you that. eaase is in the bio 🌙",
+    "background_id": "pexels-27375628",
+    "outcome": "posted 2/2"
+  },
+  {
+    "date": "2026-08-20",
+    "format": "trade",
+    "angle": "time arithmetic",
+    "hook_text": "an hour a night, seven days a week",
+    "lines": [
+      "An hour a night is 365 hours a year.",
+      "That's more than two full weeks of waking life.",
+      "The feed never announced that.",
+      "It just kept going."
+    ],
+    "caption": "the maths was always there. eaase is in the bio 🌙",
+    "background_id": "pexels-32349013",
+    "outcome": "posted 2/2"
   }
 ]
