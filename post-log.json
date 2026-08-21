@@ -1155,5 +1155,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-19193293",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-08-22",
+    "format": "receipt",
+    "quote_id": "anderson-control",
+    "category": "kept_kids_off",
+    "hook_text": "the wired editor couldn't control it either",
+    "caption": "the man who championed the whole thing said this about his own home. eaase is in the bio 🌙",
+    "background_id": "pexels-35822284",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-08-22",
+    "format": "card",
+    "item_id": "3c33546e-885d-404c-8abe-916a08ab30f2",
+    "category": "art_beauty",
+    "hook_text": "one photo, taken slowly",
+    "caption": "poetry in a silver print. this is what 30 seconds can look like. eaase is in the bio 🌙",
+    "background_id": "pexels-27375628",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-08-22",
+    "format": "trade",
+    "angle": "evening back",
+    "hook_text": "the good part of tonight is still there",
+    "lines": [
+      "A meal made slowly. A window with the lights off.",
+      "Nothing planned, which is its own kind of plan.",
+      "The feed would have filled all of that without asking.",
+      "It didn't have to."
+    ],
+    "caption": "your evening, not the algorithm's. eaase is in the bio 🌙",
+    "background_id": "pexels-35099181",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
