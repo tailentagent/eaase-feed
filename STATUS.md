@@ -1,7 +1,7 @@
 # eaase pipeline status
 
-Last run: 2026-08-21T21:02:57.345Z
+Last run: 2026-08-22T21:03:28.079Z
 
 ```
-posted 0/3 â€” receipt: posted 0/2 (instagram: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]; tiktok: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]) | card: posted 0/2 (instagram: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]; tiktok: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]) | trade: posted 0/2 (instagram: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]; tiktok: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}])
+posted 0/4 â€” receipt: posted 0/2 (instagram: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]; tiktok: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]) | card: posted 0/2 (instagram: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]; tiktok: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]) | trade: posted 0/2 (instagram: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]; tiktok: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]) | mirror: posted 0/2 (instagram: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]; tiktok: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}])
 ```
