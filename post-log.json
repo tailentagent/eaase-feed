@@ -1235,5 +1235,40 @@
     "caption": "most of us feel it. now there's a number to prove it. eaase is in the bio 🌙",
     "background_id": "pexels-13076309",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-08-24",
+    "format": "receipt",
+    "quote_id": "hastings-sleep",
+    "category": "builders_said_it",
+    "hook_text": "netflix said sleep is the competition",
+    "caption": "their words, their goal, their 2017 earnings call. eaase is in the bio 🌙",
+    "background_id": "pexels-27375628",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-08-24",
+    "format": "card",
+    "item_id": "05aa2646-ae0b-4e92-9463-1323d1b78d01",
+    "category": "did_you_know",
+    "hook_text": "a song three legends made their own",
+    "caption": "one crossroads, one fairy tale, one song that keeps finding the right voice. eaase is in the bio 🌙",
+    "background_id": "pexels-35099181",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-08-24",
+    "format": "trade",
+    "angle": "money",
+    "hook_text": "the feed is very good at want",
+    "lines": [
+      "The feed doesn't need you to click buy.",
+      "It just needs you to linger long enough",
+      "to forget you weren't looking for anything.",
+      "Wanting less is its own kind of windfall."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-15283975",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
