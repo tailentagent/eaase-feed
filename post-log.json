@@ -1336,5 +1336,40 @@
     "caption": "less scrolling, more living. eaase is in the bio 🌙",
     "background_id": "pexels-35099181",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-08-27",
+    "format": "receipt",
+    "quote_id": "jobs-limit",
+    "category": "kept_kids_off",
+    "hook_text": "steve jobs kept the ipad from his kids",
+    "caption": "the man who made it drew the line at dinner. it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-15283975",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-08-27",
+    "format": "card",
+    "item_id": "b87f70db-f04f-4a1a-97ab-66b76efc8c9b",
+    "category": "quotes",
+    "hook_text": "wilde on who you're allowed to be",
+    "caption": "past and future, held lightly. oscar wilde got there first. eaase is in the bio 🌙",
+    "background_id": "pexels-7144284",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-08-27",
+    "format": "trade",
+    "angle": "quiet permission",
+    "hook_text": "the feed will survive without you",
+    "lines": [
+      "Nothing breaks when you close it.",
+      "No one notices. No post goes unposted.",
+      "The feed was always fine on its own.",
+      "Turns out, so are you."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-37522005",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
