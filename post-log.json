@@ -1521,5 +1521,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-6219600",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-01",
+    "format": "receipt",
+    "quote_id": "gates-fourteen",
+    "category": "kept_kids_off",
+    "hook_text": "bill gates set an age limit too",
+    "caption": "built the technology. still said not yet. it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-7330179",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-01",
+    "format": "card",
+    "item_id": "ffe922a2-ce54-4217-89f0-cbb958ae4b91",
+    "category": "did_you_know",
+    "hook_text": "a chapter the history books skipped",
+    "caption": "canada showed up to a games nobody officially remembers. worth knowing about. eaase is in the bio 🌙",
+    "background_id": "pexels-35170762",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-01",
+    "format": "trade",
+    "angle": "time arithmetic",
+    "hook_text": "two hours a night is not a small thing",
+    "lines": [
+      "Two hours a night is 14 hours a week.",
+      "That's a short course, a finished project,",
+      "a friendship that actually got some time.",
+      "The feed never mentioned that part."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-4769626",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
