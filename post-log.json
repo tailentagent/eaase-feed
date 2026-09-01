@@ -1556,5 +1556,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-4769626",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-02",
+    "format": "receipt",
+    "quote_id": "holland-spiral",
+    "category": "opted_out",
+    "hook_text": "tom holland said this to 68 million people",
+    "caption": "he named it. clearly. that's the design doing its job. eaase is in the bio 🌙",
+    "background_id": "pexels-30054113",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-02",
+    "format": "card",
+    "item_id": "a810941f-27d6-4600-9349-fe88965ac14e",
+    "category": "quotes",
+    "hook_text": "twain had a thought on this",
+    "caption": "school and learning, not always the same thing. twain noticed. eaase is in the bio 🌙",
+    "background_id": "pexels-32349013",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-02",
+    "format": "trade",
+    "angle": "quiet permission",
+    "hook_text": "no one's waiting for you to finish",
+    "lines": [
+      "The feed isn't holding your place.",
+      "It doesn't know you left.",
+      "You can close it right now,",
+      "and tonight becomes yours again."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-6219600",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
