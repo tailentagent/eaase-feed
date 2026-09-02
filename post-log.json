@@ -1591,5 +1591,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-6219600",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-03",
+    "format": "receipt",
+    "quote_id": "courts-defenses-fail",
+    "category": "courts",
+    "hook_text": "meta's legal shields just failed",
+    "caption": "two decades of legal cover, gone. trial is set. eaase is in the bio 🌙",
+    "background_id": "pexels-7330179",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-03",
+    "format": "card",
+    "item_id": "20380e65-ee2d-4e8b-9f4d-f99ec472c64e",
+    "category": "did_you_know",
+    "hook_text": "five directors who put war on film",
+    "caption": "hollywood walked away from sets to point cameras at history. worth knowing their names. eaase is in the bio 🌙",
+    "background_id": "pexels-27741118",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-03",
+    "format": "trade",
+    "angle": "evening back",
+    "hook_text": "the evening isn't spoken for",
+    "lines": [
+      "No agenda. No one waiting on a reply.",
+      "Just a few hours the feed would happily fill",
+      "if you handed them over without thinking.",
+      "You don't have to hand them over."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-4769626",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
