@@ -1626,5 +1626,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-4769626",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-04",
+    "format": "receipt",
+    "quote_id": "parker-vulnerability",
+    "category": "builders_said_it",
+    "hook_text": "sean parker named it himself",
+    "caption": "his word, not ours. vulnerability. eaase is in the bio 🌙",
+    "background_id": "pexels-30054113",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-04",
+    "format": "card",
+    "item_id": "0227bba4-30d3-4414-b9be-dd869452f5e4",
+    "category": "quotes",
+    "hook_text": "holiday on what a stumble actually is",
+    "caption": "wrong turns have better information than the feed does. eaase is in the bio 🌙",
+    "background_id": "pexels-32349013",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-04",
+    "format": "trade",
+    "angle": "sleep",
+    "hook_text": "what sleep is actually doing tonight",
+    "lines": [
+      "Sleep isn't idle. It's the shift the brain",
+      "runs when the screen finally goes dark.",
+      "The feed kept cutting that shift short.",
+      "The hours it took were the good ones."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-35822284",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
