@@ -1696,5 +1696,50 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-4769626",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-06",
+    "format": "receipt",
+    "quote_id": "cook-nephew",
+    "category": "kept_kids_off",
+    "hook_text": "the apple ceo draws the line",
+    "caption": "he sells the devices. he keeps his nephew off the apps. it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-30054113",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-06",
+    "format": "card",
+    "item_id": "a17b2b32-bf4b-418f-a093-889bf54a8b2d",
+    "category": "quotes",
+    "hook_text": "peale on the quieter kind of growth",
+    "caption": "curiosity over criticism. a good one to end the evening with. eaase is in the bio 🌙",
+    "background_id": "pexels-32349013",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-06",
+    "format": "trade",
+    "angle": "movement or learning",
+    "hook_text": "the gap between 'someday' and tuesday",
+    "lines": [
+      "Learning something new doesn't need a plan.",
+      "It needs a gap in the evening and a place to start.",
+      "The feed filled that gap every night.",
+      "It was never actually full."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-35822284",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-06",
+    "format": "mirror",
+    "variant": "stat",
+    "entry_id": "hours-per-week",
+    "hook_text": "that's a second job, unpaid",
+    "caption": "52 hours a week, no benefits, no days off. you're not the weird one for wanting out. eaase is in the bio 🌙",
+    "background_id": "pexels-35408907",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
