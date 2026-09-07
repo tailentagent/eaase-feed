@@ -1776,5 +1776,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-32539931",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-08",
+    "format": "receipt",
+    "quote_id": "courts-mass-sjc",
+    "category": "courts",
+    "hook_text": "massachusetts took meta to court over this",
+    "caption": "the courts caught up with what the executives admitted in 2017. eaase is in the bio 🌙",
+    "background_id": "pexels-19193293",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-08",
+    "format": "card",
+    "item_id": "4cb54d1c-65e1-4963-94f6-01607220746d",
+    "category": "quotes",
+    "hook_text": "roosevelt on the real ingredient",
+    "caption": "skill gets you in the room. this is what opens the door. eaase is in the bio 🌙",
+    "background_id": "pexels-35822284",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-08",
+    "format": "trade",
+    "angle": "quiet permission",
+    "hook_text": "tonight, the feed can wait",
+    "lines": [
+      "The feed has no idea what time it is.",
+      "It doesn't know you've been at it all day.",
+      "Closing it isn't a retreat.",
+      "It's just the evening, finally starting."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-35099181",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
