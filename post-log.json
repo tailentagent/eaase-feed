@@ -1846,5 +1846,50 @@
     "caption": "you don't need a better feed. you need your evening back. eaase is in the bio 🌙",
     "background_id": "pexels-32539931",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-13",
+    "format": "receipt",
+    "quote_id": "walken-watch",
+    "category": "opted_out",
+    "hook_text": "christopher walken's take on phones",
+    "caption": "deadpan. accurate. permission granted. eaase is in the bio 🌙",
+    "background_id": "pexels-35213341",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-13",
+    "format": "card",
+    "item_id": "fdb0f6cb-036d-4fd4-8d1f-66e8ccc27952",
+    "category": "psychology",
+    "hook_text": "a reframe worth sitting with",
+    "caption": "between chapters is still moving. eaase is in the bio 🌙",
+    "background_id": "pexels-34566225",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-13",
+    "format": "trade",
+    "angle": "sleep",
+    "hook_text": "your brain clocks off before you do",
+    "lines": [
+      "Late in the evening, the feed gets easier to take.",
+      "That's not the content improving.",
+      "That's you getting too tired to leave.",
+      "The sleep was always the better offer."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-35099181",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-13",
+    "format": "mirror",
+    "variant": "question",
+    "entry_id": "mirror-walk",
+    "hook_text": "an untracked walk sounds nice",
+    "caption": "two hours is a lot to give away. it doesn't have to go to the feed. eaase is in the bio 🌙",
+    "background_id": "pexels-13076309",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
