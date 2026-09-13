@@ -1891,5 +1891,40 @@
     "caption": "two hours is a lot to give away. it doesn't have to go to the feed. eaase is in the bio 🌙",
     "background_id": "pexels-13076309",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-14",
+    "format": "receipt",
+    "quote_id": "thiel-gasp",
+    "category": "kept_kids_off",
+    "hook_text": "an investor's kids get 90 mins a week",
+    "caption": "the audience gasped. worth sitting with. eaase is in the bio 🌙",
+    "background_id": "pexels-15283975",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-14",
+    "format": "card",
+    "item_id": "b241e9a2-5591-443e-a30d-c6f1e7d482f5",
+    "category": "quotes",
+    "hook_text": "robin williams noticed something",
+    "caption": "hard patches pointing somewhere useful. worth 30 seconds tonight. eaase is in the bio 🌙",
+    "background_id": "pexels-7144284",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-14",
+    "format": "trade",
+    "angle": "money",
+    "hook_text": "the feed knows what you almost bought",
+    "lines": [
+      "The feed doesn't guess. It narrows.",
+      "Every linger is a data point, every return a signal.",
+      "By the time something feels like a find,",
+      "the feed has been there for weeks."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-35213341",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
