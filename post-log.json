@@ -1996,5 +1996,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-7330179",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-17",
+    "format": "receipt",
+    "quote_id": "palihapitiya-guilt",
+    "category": "builders_said_it",
+    "hook_text": "a facebook exec said this in 2017",
+    "caption": "his words, not ours. said in public, nine years ago. eaase is in the bio 🌙",
+    "background_id": "pexels-4769626",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-17",
+    "format": "card",
+    "item_id": "8eebbb26-9e74-4247-bc63-9de4e24e26db",
+    "category": "space_nature",
+    "hook_text": "an ocean hiding under the ice",
+    "caption": "jupiter's moon has been keeping a secret. eaase is in the bio 🌙",
+    "background_id": "pexels-37522005",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-17",
+    "format": "trade",
+    "angle": "quiet permission",
+    "hook_text": "you're allowed to just stop",
+    "lines": [
+      "The feed isn't going to wrap up neatly.",
+      "It was designed without an ending for you.",
+      "Putting it down in the middle is not a mistake.",
+      "That's just what stopping looks like."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-35170762",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
