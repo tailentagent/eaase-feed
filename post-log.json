@@ -2066,5 +2066,40 @@
     "caption": "still yours if you want it. eaase is in the bio 🌙",
     "background_id": "pexels-7330179",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-19",
+    "format": "receipt",
+    "quote_id": "palihapitiya-kids",
+    "category": "kept_kids_off",
+    "hook_text": "the facebook vp banned it at home",
+    "caption": "the people who built the feed didn't bring it home. it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-4769626",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-19",
+    "format": "card",
+    "item_id": "67d4c17f-f948-4d4c-b2d6-be6991901b5d",
+    "category": "did_you_know",
+    "hook_text": "barcelona, 1992, worth knowing",
+    "caption": "athlete, olympian, then coach. cilene rocha's story is a good one. eaase is in the bio 🌙",
+    "background_id": "pexels-32349013",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-19",
+    "format": "trade",
+    "angle": "sleep",
+    "hook_text": "sleep is not what's left over",
+    "lines": [
+      "The feed runs best when you're half-gone.",
+      "Tired eyes, low resistance, one more scroll.",
+      "That's not a coincidence. That's the design.",
+      "Your bed was always the smarter room."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-35170762",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
