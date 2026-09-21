@@ -2181,5 +2181,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-27741118",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-22",
+    "format": "receipt",
+    "quote_id": "chen-attention",
+    "category": "builders_said_it",
+    "hook_text": "youtube's co-founder on short-form video",
+    "caption": "he built it, then said he wouldn't want his own kids on it. eaase is in the bio 🌙",
+    "background_id": "pexels-30054113",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-22",
+    "format": "card",
+    "item_id": "30f9b67f-1a0a-4219-b9db-dba7c2f9723c",
+    "category": "quotes",
+    "hook_text": "truman on what the hard part gives you",
+    "caption": "not every card fixes things. some just help you hold them. eaase is in the bio 🌙",
+    "background_id": "pexels-35822284",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-22",
+    "format": "trade",
+    "angle": "time arithmetic",
+    "hook_text": "20 minutes a night is more than it sounds",
+    "lines": [
+      "20 minutes a night is two hours a week.",
+      "Two hours a week is a hundred hours a year.",
+      "The feed took that quietly, in small pieces.",
+      "Small pieces add up."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-27375628",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
