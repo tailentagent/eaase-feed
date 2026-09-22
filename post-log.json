@@ -2216,5 +2216,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-27375628",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-23",
+    "format": "receipt",
+    "quote_id": "sheeran-swift-email",
+    "category": "opted_out",
+    "hook_text": "taylor swift can't just text ed sheeran",
+    "caption": "the inconvenient friend who quit the phone is always worth the extra step. eaase is in the bio 🌙",
+    "background_id": "pexels-32539931",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-23",
+    "format": "card",
+    "item_id": "66e102df-b51c-458f-b364-dd4c6e063484",
+    "category": "psychology",
+    "hook_text": "the chase that gets in its own way",
+    "caption": "this one landed differently. eaase is in the bio 🌙",
+    "background_id": "pexels-32349013",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-23",
+    "format": "trade",
+    "angle": "quiet permission",
+    "hook_text": "the scroll doesn't need a sign-off",
+    "lines": [
+      "There's no right moment to close it.",
+      "The feed isn't building to anything.",
+      "Mid-scroll is a perfectly good place to stop.",
+      "The evening picks up right there."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-27741118",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
