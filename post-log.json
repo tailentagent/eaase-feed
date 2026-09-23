@@ -2251,5 +2251,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-27741118",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-24",
+    "format": "receipt",
+    "quote_id": "chavarria-devil",
+    "category": "kept_kids_off",
+    "hook_text": "a facebook staffer said this about kids",
+    "caption": "she worked there. she kept her kids phone-free until high school. eaase is in the bio 🌙",
+    "background_id": "pexels-19193293",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-24",
+    "format": "card",
+    "item_id": "3bc095c0-bb9a-4407-82c1-c4a284e4d1da",
+    "category": "quotes",
+    "hook_text": "tolkien on the hardest part",
+    "caption": "30 seconds and a quiet thought to close the evening with. eaase is in the bio 🌙",
+    "background_id": "pexels-35822284",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-24",
+    "format": "trade",
+    "angle": "evening back",
+    "hook_text": "the evening has a texture to it",
+    "lines": [
+      "Not every night needs a plan to be good.",
+      "A kettle on. A room that smells like dinner.",
+      "The feed would have run quietly over all of it.",
+      "This one didn't let it."
+    ],
+    "caption": "the good stuff was never in the feed. eaase is in the bio 🌙",
+    "background_id": "pexels-27375628",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
