@@ -2286,5 +2286,40 @@
     "caption": "the good stuff was never in the feed. eaase is in the bio 🌙",
     "background_id": "pexels-27375628",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-25",
+    "format": "receipt",
+    "quote_id": "eilish-deleted",
+    "category": "opted_out",
+    "hook_text": "billie eilish deleted the apps",
+    "caption": "a huge deal. her words. yours can be too. eaase is in the bio 🌙",
+    "background_id": "pexels-32539931",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-25",
+    "format": "card",
+    "item_id": "7c5821e9-32ba-4c4e-a871-76d6ba0b52db",
+    "category": "did_you_know",
+    "hook_text": "one guitarist, two cult bands",
+    "caption": "indie rock has some interesting side doors. eaase is in the bio 🌙",
+    "background_id": "pexels-35099181",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-25",
+    "format": "trade",
+    "angle": "sleep",
+    "hook_text": "the morning starts the night before",
+    "lines": [
+      "The feed is designed for late.",
+      "One more, then one more, then it's 1am.",
+      "That cost shows up at 7.",
+      "The good hours were always the dark ones."
+    ],
+    "caption": "the night shift your brain runs is worth protecting. eaase is in the bio 🌙",
+    "background_id": "pexels-27741118",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
