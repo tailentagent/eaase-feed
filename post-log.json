@@ -2356,5 +2356,50 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-27375628",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-27",
+    "format": "receipt",
+    "quote_id": "hastings-sleep",
+    "category": "builders_said_it",
+    "hook_text": "netflix said it beats sleep. it does.",
+    "caption": "not a glitch in the product. the product working exactly as designed. eaase is in the bio 🌙",
+    "background_id": "pexels-32539931",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-27",
+    "format": "card",
+    "item_id": "f3ba6ada-b598-4bbb-9bf2-5a4b76e1c503",
+    "category": "did_you_know",
+    "hook_text": "the only sufi order bengal ever made",
+    "caption": "born in chittagong, still resonating. a quiet 30 seconds well spent. eaase is in the bio 🌙",
+    "background_id": "pexels-35099181",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-27",
+    "format": "trade",
+    "angle": "movement or learning",
+    "hook_text": "the body moves when the screen goes dark",
+    "lines": [
+      "A stretch. A short loop around the block.",
+      "Not a routine. Just a thing the evening made room for.",
+      "The feed kept that room occupied for years.",
+      "It was always there."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-15283975",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-27",
+    "format": "mirror",
+    "variant": "question",
+    "entry_id": "mirror-beach",
+    "hook_text": "six hours is a whole beach day",
+    "caption": "sun, sand, the works. it's already there in the math. eaase is in the bio 🌙",
+    "background_id": "pexels-11974556",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
