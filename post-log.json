@@ -2401,5 +2401,40 @@
     "caption": "sun, sand, the works. it's already there in the math. eaase is in the bio 🌙",
     "background_id": "pexels-11974556",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-28",
+    "format": "receipt",
+    "quote_id": "sheeran-veil",
+    "category": "opted_out",
+    "hook_text": "eleven words from someone who got out",
+    "caption": "a veil. that's the word he used. eaase is in the bio 🌙",
+    "background_id": "pexels-19193293",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-28",
+    "format": "card",
+    "item_id": "613ee6ab-677f-408a-98d4-0b0e4321da41",
+    "category": "quotes",
+    "hook_text": "a question for your future self",
+    "caption": "showing up beats wishing every time. eaase is in the bio 🌙",
+    "background_id": "pexels-35213341",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-28",
+    "format": "trade",
+    "angle": "time arithmetic",
+    "hook_text": "a night a week is a long time",
+    "lines": [
+      "An hour a night, seven nights, is seven hours.",
+      "Seven hours is a weekend morning that never ended.",
+      "The feed delivered it in two-minute pieces",
+      "so it never felt like anything at all."
+    ],
+    "caption": "it adds up quieter than you'd think. eaase is in the bio 🌙",
+    "background_id": "pexels-32539931",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
