@@ -2436,5 +2436,40 @@
     "caption": "it adds up quieter than you'd think. eaase is in the bio 🌙",
     "background_id": "pexels-32539931",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-29",
+    "format": "receipt",
+    "quote_id": "anderson-control",
+    "category": "kept_kids_off",
+    "hook_text": "the wired editor couldn't control it either",
+    "caption": "the man who championed the tech said this about his own home. calm evidence. eaase is in the bio 🌙",
+    "background_id": "pexels-35099181",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-29",
+    "format": "card",
+    "item_id": "c052f28b-95dc-4541-b156-70fbb02b5c07",
+    "category": "psychology",
+    "hook_text": "the quieter way to be in a room",
+    "caption": "nothing to prove, nowhere to perform. eaase is in the bio 🌙",
+    "background_id": "pexels-15283975",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-09-29",
+    "format": "trade",
+    "angle": "quiet permission",
+    "hook_text": "it doesn't need a grand exit",
+    "lines": [
+      "The feed wasn't going to get better in five more minutes.",
+      "It was going to get five more minutes.",
+      "Closing it quietly, for no reason,",
+      "is reason enough."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-34566225",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
