@@ -2506,5 +2506,36 @@
     "caption": "you don't need a better feed. you need your evening back. eaase is in the bio 🌙",
     "background_id": "pexels-37522005",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-01",
+    "format": "receipt",
+    "outcome": "skipped_generation",
+    "detail": "quote_span is not a verbatim substring of the library quote"
+  },
+  {
+    "date": "2026-10-01",
+    "format": "card",
+    "item_id": "0e754e03-5d5e-4217-979a-a58b47ee1c8c",
+    "category": "quotes",
+    "hook_text": "wonders hiding in plain sight today",
+    "caption": "light through a window beats the feed every time. eaase is in the bio 🌙",
+    "background_id": "pexels-35170762",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-01",
+    "format": "trade",
+    "angle": "sleep",
+    "hook_text": "sleep earned its reputation",
+    "lines": [
+      "The feed doesn't wind down. It accelerates.",
+      "Late content is sharper, louder, more of a pull.",
+      "Sleep wasn't losing to nothing.",
+      "It was losing to something built to win."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-15283975",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
