@@ -2537,5 +2537,36 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-15283975",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-02",
+    "format": "receipt",
+    "outcome": "skipped_generation",
+    "detail": "quote_span is not a verbatim substring of the library quote"
+  },
+  {
+    "date": "2026-10-02",
+    "format": "card",
+    "item_id": "bae33b13-5171-423a-b5fc-31c2037ddc24",
+    "category": "history",
+    "hook_text": "athens had zip codes before zip codes",
+    "caption": "ancient greece did local government. the feed never mentioned it. eaase is in the bio 🌙",
+    "background_id": "pexels-34566225",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-02",
+    "format": "trade",
+    "angle": "money",
+    "hook_text": "the feed is always open for business",
+    "lines": [
+      "The feed isn't a shop. It's a mood.",
+      "A long, patient mood that knows",
+      "what you lingered on three weeks ago.",
+      "Wanting things and seeing things stopped being separate."
+    ],
+    "caption": "it's not impulse. it's design. eaase is in the bio 🌙",
+    "background_id": "pexels-7144284",
+    "outcome": "posted 0/2 (instagram: fetch failed; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
