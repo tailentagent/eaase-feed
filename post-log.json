@@ -2568,5 +2568,40 @@
     "caption": "it's not impulse. it's design. eaase is in the bio 🌙",
     "background_id": "pexels-7144284",
     "outcome": "posted 0/2 (instagram: fetch failed; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-03",
+    "format": "receipt",
+    "quote_id": "gomez-happier",
+    "category": "opted_out",
+    "hook_text": "she had the biggest following. she left.",
+    "caption": "you don't need a better feed. you need your evening back. eaase is in the bio 🌙",
+    "background_id": "pexels-6219600",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-03",
+    "format": "card",
+    "item_id": "8574f7b2-6ee0-4988-931f-b6ff2161d968",
+    "category": "quotes",
+    "hook_text": "kabir had something to say about now",
+    "caption": "a 15th-century poet who understood the present tense better than most. eaase is in the bio 🌙",
+    "background_id": "pexels-37522005",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-03",
+    "format": "trade",
+    "angle": "movement or learning",
+    "hook_text": "starting small is still starting",
+    "lines": [
+      "Three songs into learning an instrument.",
+      "A single chapter. A walk with a podcast.",
+      "None of it looks like much from the outside.",
+      "From the inside, it's exactly what it is."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-35170762",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
