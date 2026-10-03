@@ -2603,5 +2603,50 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-35170762",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-04",
+    "format": "receipt",
+    "quote_id": "jobs-limit",
+    "category": "kept_kids_off",
+    "hook_text": "steve jobs on his own kids and the ipad",
+    "caption": "the man who made it kept it out of his house. the people at the top of the feed don't scroll it. eaase is in the bio 🌙",
+    "background_id": "pexels-7330179",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-04",
+    "format": "card",
+    "item_id": "13de005e-5911-4a95-8228-f467f494e3a8",
+    "category": "did_you_know",
+    "hook_text": "built in 1943, dark for a reason",
+    "caption": "a lighthouse that had to stay quiet. good things waiting for the right moment. eaase is in the bio 🌙",
+    "background_id": "pexels-4769626",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-04",
+    "format": "trade",
+    "angle": "time arithmetic",
+    "hook_text": "an hour a night is a whole day",
+    "lines": [
+      "An hour a night is seven hours a week.",
+      "Seven hours is a full working day.",
+      "The feed parcelled it out so quietly",
+      "it never felt like anything was leaving."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-7144284",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-04",
+    "format": "mirror",
+    "variant": "stat",
+    "entry_id": "genz-days-per-year",
+    "hook_text": "122 days, give or take",
+    "caption": "the people at the top of the feed don't scroll it. the time exists. eaase is in the bio 🌙",
+    "background_id": "pexels-4781516",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
