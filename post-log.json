@@ -2648,5 +2648,40 @@
     "caption": "the people at the top of the feed don't scroll it. the time exists. eaase is in the bio 🌙",
     "background_id": "pexels-4781516",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-07",
+    "format": "receipt",
+    "quote_id": "gomez-relationship",
+    "category": "opted_out",
+    "hook_text": "selena gomez, after 4.5 years offline",
+    "caption": "a relationship with yourself. turns out the feed wasn't making that easier. eaase is in the bio 🌙",
+    "background_id": "pexels-6219600",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-07",
+    "format": "card",
+    "item_id": "a526f89c-3787-4d15-ab31-b19f14a355f4",
+    "category": "quotes",
+    "hook_text": "a small thing worth finding tonight",
+    "caption": "rough days and good moments, same day, same you. eaase is in the bio 🌙",
+    "background_id": "pexels-30054113",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-07",
+    "format": "trade",
+    "angle": "quiet permission",
+    "hook_text": "the feed won't miss you tonight",
+    "lines": [
+      "It doesn't notice when you leave.",
+      "It doesn't hold a grudge. It doesn't hold anything.",
+      "You can just go.",
+      "The evening is still perfectly intact."
+    ],
+    "caption": "no drama required. eaase is in the bio 🌙",
+    "background_id": "pexels-7330179",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
