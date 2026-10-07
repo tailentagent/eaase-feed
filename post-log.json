@@ -2683,5 +2683,40 @@
     "caption": "no drama required. eaase is in the bio 🌙",
     "background_id": "pexels-7330179",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-08",
+    "format": "receipt",
+    "quote_id": "courts-la-verdict",
+    "category": "courts",
+    "hook_text": "a jury made it legally true in 2026",
+    "caption": "the executives said it in 2017. nine years later, a jury agreed. eaase is in the bio 🌙",
+    "background_id": "pexels-4769626",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-08",
+    "format": "card",
+    "item_id": "2fcc7d9c-8e13-4113-b51f-abfcd15a3d1c",
+    "category": "did_you_know",
+    "hook_text": "70 years of a tiny icon",
+    "caption": "a character who outlasted most of the magazine world. worth your 30 seconds. eaase is in the bio 🌙",
+    "background_id": "pexels-32349013",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-08",
+    "format": "trade",
+    "angle": "evening back",
+    "hook_text": "the evening didn't go anywhere",
+    "lines": [
+      "A quiet room. Nothing asking anything of you.",
+      "The feed would have filled it, slowly, without fanfare.",
+      "It didn't get the chance tonight.",
+      "That's the whole win."
+    ],
+    "caption": "less scrolling, more living. eaase is in the bio 🌙",
+    "background_id": "pexels-27741118",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
