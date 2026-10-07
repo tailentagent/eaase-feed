@@ -1,6 +1,6 @@
 # eaase pipeline status
 
-Last run: 2026-10-06T21:02:41.347Z
+Last run: 2026-10-07T21:02:48.918Z
 
 ```
 posted 0/3 â€” receipt: posted 0/2 (instagram: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]; tiktok: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]) | card: posted 0/2 (instagram: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]; tiktok: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]) | trade: posted 0/2 (instagram: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}]; tiktok: buffer api error: 401 [{"message":"Access token is not valid","extensions":{"code":"UNAUTHENTICATED"}}])
