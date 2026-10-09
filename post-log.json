@@ -2753,5 +2753,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-27375628",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-10",
+    "format": "receipt",
+    "quote_id": "holland-spiral",
+    "category": "opted_out",
+    "hook_text": "tom holland said it to 68 million people",
+    "caption": "68 million followers, and he still had to log off. you're not the weird one for wanting out. eaase is in the bio 🌙",
+    "background_id": "pexels-32539931",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-10",
+    "format": "card",
+    "item_id": "fc0a8c42-73be-4451-bf8c-e9ceb9883a75",
+    "category": "did_you_know",
+    "hook_text": "homer, but make it a flip",
+    "caption": "a 3,000-year-old story, one fresh angle, genuinely worth 30 seconds. eaase is in the bio 🌙",
+    "background_id": "pexels-32349013",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-10",
+    "format": "trade",
+    "angle": "money",
+    "hook_text": "the feed is not a window display",
+    "lines": [
+      "A window display knows you're just passing.",
+      "The feed knows you came back four times this week.",
+      "It's been building a case for something you haven't bought yet.",
+      "That's not shopping. That's something else entirely."
+    ],
+    "caption": "the apps are open for business. you don't have to be. eaase is in the bio 🌙",
+    "background_id": "pexels-27741118",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
