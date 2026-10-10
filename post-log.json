@@ -2788,5 +2788,50 @@
     "caption": "the apps are open for business. you don't have to be. eaase is in the bio 🌙",
     "background_id": "pexels-27741118",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-11",
+    "format": "receipt",
+    "quote_id": "gates-fourteen",
+    "category": "kept_kids_off",
+    "hook_text": "bill gates held the line until 14",
+    "caption": "he co-built the modern computer. he still drew this line. eaase is in the bio 🌙",
+    "background_id": "pexels-35822284",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-11",
+    "format": "card",
+    "item_id": "802c1cad-32a2-46fd-8350-1c1e1f37b3df",
+    "category": "quotes",
+    "hook_text": "worth asking before the night's gone",
+    "caption": "not a verdict, just a check-in. eaase is in the bio 🌙",
+    "background_id": "pexels-19193293",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-11",
+    "format": "trade",
+    "angle": "movement or learning",
+    "hook_text": "ten minutes found a new thing",
+    "lines": [
+      "A sketch started badly on a Sunday night.",
+      "A recipe tried once, then tried differently.",
+      "The feed had that time on a retainer.",
+      "Turns out the retainer was easy to cancel."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-27375628",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-11",
+    "format": "mirror",
+    "variant": "question",
+    "entry_id": "mirror-cooking",
+    "hook_text": "four hours, one dish",
+    "caption": "the recipe's been saved for months. the feed kept getting in the way. it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-37848044",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
