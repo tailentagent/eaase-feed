@@ -2833,5 +2833,40 @@
     "caption": "the recipe's been saved for months. the feed kept getting in the way. it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-37848044",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-12",
+    "format": "receipt",
+    "quote_id": "bieber-boundaries",
+    "category": "opted_out",
+    "hook_text": "justin bieber switched to ipad only",
+    "caption": "you don't owe the feed your evening. eaase is in the bio 🌙",
+    "background_id": "pexels-32539931",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-12",
+    "format": "card",
+    "item_id": "2c7a5e90-b86f-46a3-9dbb-337d0005ac3c",
+    "category": "did_you_know",
+    "hook_text": "four families, centuries of sound",
+    "caption": "strings, wind, rhythm, bells. india mapped music before most had words for it. eaase is in the bio 🌙",
+    "background_id": "pexels-27741118",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-12",
+    "format": "trade",
+    "angle": "time arithmetic",
+    "hook_text": "two hours a night is a second job",
+    "lines": [
+      "Two hours a night is 14 hours a week.",
+      "That's a part-time commitment to someone else's platform.",
+      "No contract, no pay, no notice period.",
+      "You can just not show up tonight."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-35822284",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
