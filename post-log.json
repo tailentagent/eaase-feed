@@ -2899,5 +2899,40 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-15283975",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-17",
+    "format": "receipt",
+    "quote_id": "parker-vulnerability",
+    "category": "builders_said_it",
+    "hook_text": "he named what he built. in public.",
+    "caption": "a hacker's word for it: vulnerability. not a glitch. the design. eaase is in the bio 🌙",
+    "background_id": "pexels-35213341",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-17",
+    "format": "card",
+    "item_id": "21f97b3d-f6e8-4470-ab70-e5787c759722",
+    "category": "space_nature",
+    "hook_text": "tonight's window into the cosmos",
+    "caption": "a new corner of the universe, no doomscrolling required. eaase is in the bio 🌙",
+    "background_id": "pexels-34566225",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-17",
+    "format": "trade",
+    "angle": "evening back",
+    "hook_text": "the evening showed up anyway",
+    "lines": [
+      "A cooler night. The kind that asks nothing.",
+      "No agenda waiting on the other side of the screen.",
+      "The feed was ready to take the next two hours.",
+      "It wasn't the one who decided."
+    ],
+    "caption": "your evening, not theirs. eaase is in the bio 🌙",
+    "background_id": "pexels-7144284",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
