@@ -2868,5 +2868,36 @@
     "caption": "it's not a willpower problem. eaase is in the bio 🌙",
     "background_id": "pexels-35822284",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-16",
+    "format": "receipt",
+    "outcome": "skipped_generation",
+    "detail": "quote_span 142 chars (max 140)"
+  },
+  {
+    "date": "2026-10-16",
+    "format": "card",
+    "item_id": "5de28992-562d-465a-8358-41e36eeaf548",
+    "category": "quotes",
+    "hook_text": "tolstoy noticed the gap",
+    "caption": "formality filling the space where warmth could be. a thought to sit with tonight. eaase is in the bio 🌙",
+    "background_id": "pexels-35099181",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-16",
+    "format": "trade",
+    "angle": "quiet permission",
+    "hook_text": "you can just leave it there",
+    "lines": [
+      "The feed isn't paused, waiting for you.",
+      "It doesn't have a cliffhanger. It has more feed.",
+      "Walking away mid-scroll isn't giving up.",
+      "It's just Friday evening, reclaimed."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-15283975",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
