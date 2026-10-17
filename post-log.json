@@ -2934,5 +2934,50 @@
     "caption": "your evening, not theirs. eaase is in the bio 🌙",
     "background_id": "pexels-7144284",
     "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-18",
+    "format": "receipt",
+    "quote_id": "nolan-nophone",
+    "category": "opted_out",
+    "hook_text": "the director of inception has no smartphone",
+    "caption": "made some of the most focused films ever. probably related. eaase is in the bio 🌙",
+    "background_id": "pexels-37522005",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-18",
+    "format": "card",
+    "item_id": "2cbf5cb4-2c1c-47ca-9293-a662818f1494",
+    "category": "quotes",
+    "hook_text": "confucius on the cost of everything",
+    "caption": "one thing, fully. a thought to take into the rest of tonight. eaase is in the bio 🌙",
+    "background_id": "pexels-35170762",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-18",
+    "format": "trade",
+    "angle": "sleep",
+    "hook_text": "the other side of a good night",
+    "lines": [
+      "A full night's sleep doesn't announce itself.",
+      "It just shows up in the morning as a quieter head,",
+      "a longer patience, a day that starts level.",
+      "The feed was never going to offer that."
+    ],
+    "caption": "it's not a willpower problem. eaase is in the bio 🌙",
+    "background_id": "pexels-15283975",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
+  },
+  {
+    "date": "2026-10-18",
+    "format": "mirror",
+    "variant": "stat",
+    "entry_id": "genz-days-per-year",
+    "hook_text": "122 days is a lot of october",
+    "caption": "that's not stolen time. it's just waiting to be pointed somewhere else. eaase is in the bio 🌙",
+    "background_id": "pexels-31290256",
+    "outcome": "posted 0/2 (instagram: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}]; tiktok: buffer api error: 401 [{\"message\":\"Access token is not valid\",\"extensions\":{\"code\":\"UNAUTHENTICATED\"}}])"
   }
 ]
